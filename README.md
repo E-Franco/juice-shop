@@ -5,4 +5,6 @@ Using clean architecture for the project trying to include all the principles of
 
 OBS: the current project still ongoing and has no date to be finished
 
-![Screenshot] (banner.png)
+<img src="banner.png" alt="Alt text">
+
+
